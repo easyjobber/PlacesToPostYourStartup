@@ -65,6 +65,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * Discova - http://www.discova.co/
 * Discover Cloud - https://www.discovercloud.com/become-a-vendor
 * Erlibird - https://erlibird.com/beta-testing
+* Easyjobber - https://easyjobber.fr
 * F6S - http://www.f6s.com/
 * Feed My App - https://feedmyapp.com/submit/
 * FireSpotting - http://firespotting.com/submit
